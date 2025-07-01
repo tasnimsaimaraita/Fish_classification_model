@@ -3,6 +3,7 @@
 This repository contains a project on fish species image classification using deep learning techniques. The complete code is implemented in a Jupyter notebook available [here](https://github.com/fragliglint/Fish_Classification/blob/main/fish.ipynb).
 
 
+Dataset: https://data.mendeley.com/datasets/8r24222wcc/2
 
 ## Project Description
 
